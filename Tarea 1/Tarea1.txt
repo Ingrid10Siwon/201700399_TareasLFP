@@ -1,6 +1,6 @@
 Ingrid Lorena Garcia Yantuche  Carné: 201700399
 
-                                                                                  Diferencia entre lenguaje de programación imperativo y lenguaje de programación declarativo
+                                             Diferencia entre lenguaje de programación imperativo y lenguaje de programación declarativo
 
 Un lenguaje imperativo nos indica como hacerlo, es decir que proporciona un modelo de secuencia o instrucciones para un ordenador , viene siendo como un algoritmo en que describe 
 como se hace algo paso a paso para alcanzar un resultado deseado.
