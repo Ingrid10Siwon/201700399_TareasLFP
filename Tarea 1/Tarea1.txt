@@ -1,0 +1,39 @@
+Ingrid Lorena Garcia Yantuche  Carné: 201700399
+
+                                                                                  Diferencia entre lenguaje de programación imperativo y lenguaje de programación declarativo
+
+Un lenguaje imperativo nos indica como hacerlo, es decir que proporciona un modelo de secuencia o instrucciones para un ordenador , viene siendo como un algoritmo en que describe 
+como se hace algo paso a paso para alcanzar un resultado deseado.
+             Uno de los lenguajes de programación imperativa son:
+             *Java
+             *Pascal
+             *C
+             *C#
+             *C++
+             *Python
+
+Ejemplo en java
+
+   int num=5;
+   int num2=4;
+
+   if(num>num2){
+       System.out.println("El número mayor es:"+num);
+   } 
+      else if(num<num2){
+          System.out.println("El numero mayor es:"+num2);
+  }
+      else if(num=num2){
+          System.out.println("No hay numero mayor");
+}
+
+
+Mientras que el lenguaje declarativo describe que se debe hacer sin necesidad de explicar cómo hacerlo o cómo se hizo, se divide en programación lógica y programación funcional.
+             Uno de de los lenguajes de programación declarativa son:
+             *Miranda
+             *SQL (en un sentido amplio)
+
+Ejemplo en SQL
+
+   Create Table Empleado
+   Select from* Empleado
