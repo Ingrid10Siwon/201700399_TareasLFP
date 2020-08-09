@@ -29,7 +29,7 @@ Ejemplo en java
 
 
 Mientras que el lenguaje declarativo describe que se debe hacer sin necesidad de explicar cómo hacerlo o cómo se hizo, se divide en programación lógica y programación funcional.
-             Uno de de los lenguajes de programación declarativa son:
+             Uno de de los lenguajes de programación declarativa:
              *Miranda
              *SQL (en un sentido amplio)
 
